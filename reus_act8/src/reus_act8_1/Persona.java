@@ -2,7 +2,7 @@ package reus_act8_1;
 
 public class Persona {
 
-	private String nombre, DNI, sexo;
+	private String nombre, DNI, sexo = "H";
 	private int edad;
 	private double peso, altura;
 	

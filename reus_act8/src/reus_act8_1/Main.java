@@ -7,7 +7,7 @@ public class Main {
 		
 		Persona p1 = new Persona("12345678A");	
 		Persona p2 = new Persona("persona1","12345678A",11,"H");
-		Persona p3 = new Persona("persona1","12345678A",11,"H",30,140);
+		Persona p3 = new Persona("persona1","12345678A",11,"M",30,140);
 
 		System.out.println(p1.toString());
 		System.out.println(p2.toString());
